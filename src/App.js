@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css'; // Import the CSS file
 
-// ... rest of the component code
+// ... rest of the component code hello
 
 const ArtistProfileForm = () => {
   const [profilePicture, setProfilePicture] = useState(null);
